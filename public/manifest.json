@@ -1,0 +1,19 @@
+{
+  "name": "Library Components",
+  "short_name": "Library Components",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "type": "image/ico"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/ico"
+    }
+  ],
+  "background_color": "#06092B",
+  "description": "The best libray of components in the world!",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#06092B"
+}
